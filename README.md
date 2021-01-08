@@ -5,9 +5,8 @@
 # 배운 것
 
 1. Java 기본 문법
-2. Web APIs 이해, 활용
-3. DOM
-   - promise, async 등
+2. 스프링 부트 프로젝트 구조
+3. JPA
 
 # Project
 
