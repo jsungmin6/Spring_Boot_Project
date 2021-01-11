@@ -25,7 +25,6 @@ public class MemberServiceTest {
 
 
     @Test
-    @Rollback(false)
     public void 회원가입() throws Exception{
         //Given
         Member member = new Member();
