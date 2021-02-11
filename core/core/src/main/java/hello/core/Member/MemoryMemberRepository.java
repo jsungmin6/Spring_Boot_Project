@@ -3,7 +3,7 @@ package hello.core.Member;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MemoryMemeberRepository implements MemberRepository {
+public class MemoryMemberRepository implements MemberRepository {
 
     private static Map<Long, Member> store = new HashMap<>();//동시성 이슈 발생할 수 있지만 예제니까 넘어감.
 
