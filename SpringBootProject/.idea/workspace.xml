@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b056579-ca3b-40a9-8c15-91caf3c94856" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../core/core/src/test/java/hello/core/autowired/AllBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/core/src/test/java/hello/core/autowired/AllBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/DataJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/DataJpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entitiy/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entitiy/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entitiy/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entitiy/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entitiy/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entitiy/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-jpa/src/test/java/study/datajpa/repository/MemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../data-jpa/src/test/java/study/datajpa/repository/MemberRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../querydsl/querydsl/src/test/java/study/querydsl/QuerydslBasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../querydsl/querydsl/src/test/java/study/querydsl/QuerydslBasicTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pNLYBVobtTUeM1vMvM4EWsW5jY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hello-Jpa" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b056579-ca3b-40a9-8c15-91caf3c94856" name="Default Changelist" comment="" />
+      <created>1615018646867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615018646867</updated>
+      <workItem from="1615018647946" duration="17000" />
+      <workItem from="1615031015921" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-860" y="301" key="FileChooserDialogImpl" timestamp="1615031068426">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-860" y="301" key="FileChooserDialogImpl/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1615031068426" />
+  </component>
+</project>

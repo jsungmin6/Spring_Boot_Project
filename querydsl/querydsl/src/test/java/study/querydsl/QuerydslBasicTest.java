@@ -553,6 +553,7 @@ public class QuerydslBasicTest {
         List<Member> result = searchMember2(usernameParam, ageParam);
         Assertions.assertThat(result.size()).isEqualTo(1);
     }
+
     private List<Member> searchMember2(String usernameCond, Integer ageCond) {
         return queryFactory
                 .selectFrom(member)

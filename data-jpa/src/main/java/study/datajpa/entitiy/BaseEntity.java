@@ -22,9 +22,9 @@ public class BaseEntity {
     @LastModifiedDate
     private LocalDateTime lastModifiedDate;
 
-    @CreatedBy
-    @Column(updatable = false)
-    private String createdBy;
-    @LastModifiedBy
-    private String lastModifiedBy;
+//    @CreatedBy
+//    @Column(updatable = false)
+//    private String createdBy;
+//    @LastModifiedBy
+//    private String lastModifiedBy;
 }

@@ -41,7 +41,7 @@ public interface MemberRepository extends JpaRepository<Member, Long> , MemberRe
     Page<Member> findByAge(int age, Pageable pageable); //count 쿼리 사용
 
 
-    Slice<Member> findBySlice(String name, Pageable pageable); //count 쿼리 사용 안함
+//    Slice<Member> findBySlice(String name, Pageable pageable); //count 쿼리 사용 안함
     List<Member> findByUsername(String name, Pageable pageable); //count 쿼리 사용 안함
     List<Member> findByUsername(String name, Sort sort);
 
