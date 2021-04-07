@@ -14,11 +14,14 @@ import java.util.List;
  */
 @Controller
 @RequestMapping("/springmvc/v2/members")
-public class SpringMemberControllerV2 { private MemberRepository memberRepository = MemberRepository.getInstance();
+public class SpringMemberControllerV2 {
+    private MemberRepository memberRepository = MemberRepository.getInstance();
+
     @RequestMapping("/new-form")
     public ModelAndView newForm() {
         return new ModelAndView("new-form");
     }
+
     @RequestMapping("/save")
     public ModelAndView save(HttpServletRequest request, HttpServletResponse
             response) {
@@ -30,6 +33,7 @@ public class SpringMemberControllerV2 { private MemberRepository memberRepositor
         mav.addObject("member", member);
         return mav;
     }
+
     @RequestMapping
     public ModelAndView members() {
         List<Member> members = memberRepository.findAll();
